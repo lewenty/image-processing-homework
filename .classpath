@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Downloads/BIL505/BIL505/dip.jar"/>
-	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Downloads/BIL505/BIL505/jai_codec.jar"/>
-	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Downloads/BIL505/BIL505/jai_core.jar"/>
-	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Downloads/BIL505/BIL505/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Desktop/ARCHIVE/LEVENT-YILDIZ/okul/gi/projects-okan/library/dip.jar"/>
+	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Desktop/ARCHIVE/LEVENT-YILDIZ/okul/gi/projects-okan/library/jai_codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Desktop/ARCHIVE/LEVENT-YILDIZ/okul/gi/projects-okan/library/jai_core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/levent.yildiz/Desktop/ARCHIVE/LEVENT-YILDIZ/okul/gi/projects-okan/library/Jama-1.0.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
